@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst and Data Science
 - 🌱 I’m currently learning MySQL and Phyton.
 - 💞️ I’m looking to collaborate on Data Analytic project.
-- 📫 How to reach me ...
+- 📫 My contact: ajengseptianidewi@gmail.com
 
 <!---
 Ajengsdewi/Ajengsdewi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
